@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Home Work Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_pin">Enter Your Pin</string>
+    <string name="btn_enter">Enter</string>
+    <string name="title_activity_children">Children_Activity</string>
+    <string name="lbl_confirmed_children">Confirmed Children:</string>
+    <string name="title_activity_home_works">HomeWorks</string>
+    <string name="lbl_due">Due</string>
+    <string name="lbl_assigned">Assigned</string>
+    <string name="rdbtn_today">Tomorrow</string>
+    <string name="rdbtn_week">Week</string>
+    <string name="btn_sign">Sign</string>
+    <string name="btn_view">View</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_back">Back</string>
+
+</resources>
